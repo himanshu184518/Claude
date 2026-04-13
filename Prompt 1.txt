@@ -1,3 +1,5 @@
+Hiiii
+
 Prompt 1: Build a Business Landing Page (Without Any Skill)
 
 Copy and paste the following into Claude Code:
